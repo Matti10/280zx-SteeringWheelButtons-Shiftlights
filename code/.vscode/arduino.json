@@ -1,0 +1,7 @@
+{
+    "board": "arduino:avr:nano",
+    "programmer": "arduino:avrisp",
+    "port": "COM1",
+    "sketch": "testing\\LED-Test.ino",
+    "configuration": "cpu=atmega328"
+}

@@ -1,0 +1,24 @@
+Partlist
+
+Exported from shiftLights.sch at 30/11/2022 6:06 PM
+
+EAGLE Version 9.6.2 Copyright (c) 1988-2020 Autodesk, Inc.
+
+Assembly variant: 
+
+Part     Value          Device          Package      Library       Sheet
+R1                      R-US_0411/3V    0411V        rcl           1
+R2                      R-US_0411/3V    0411V        rcl           1
+R3       10k            R-US_0411/3V    0411V        rcl           1
+R4       10k            R-US_0411/3V    0411V        rcl           1
+R5       10k            R-US_0411/3V    0411V        rcl           1
+R6       10k            R-US_0411/3V    0411V        rcl           1
+R7                      R-US_0411/3V    0411V        rcl           1
+R8                      R-US_0411/3V    0411V        rcl           1
+R9       10k            R-US_0411/3V    0411V        rcl           1
+S1                      10-XX           B3F-10XX     switch-omron  1
+S2                      10-XX           B3F-10XX     switch-omron  1
+S3                      10-XX           B3F-10XX     switch-omron  1
+S4                      10-XX           B3F-10XX     switch-omron  1
+S5                      10-XX           B3F-10XX     switch-omron  1
+U$1      NANO           NANO            NANO         Arduino-clone 1
